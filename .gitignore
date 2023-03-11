@@ -1,0 +1,3 @@
+# ignore all .pptx files
+*.pptx
+
